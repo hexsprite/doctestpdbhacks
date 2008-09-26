@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: doctestpdbhacks
+Version: 0.1dev
+Summary: pdb doesn't play nice with doctests..  this is a quick hack to fix that.
+Home-page: http://scryent.com
+Author: Jordan Baker
+Author-email: jbb AT scryent DOT com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

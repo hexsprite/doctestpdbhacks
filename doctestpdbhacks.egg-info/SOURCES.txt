@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+doctestpdbhacks/__init__.py
+doctestpdbhacks.egg-info/PKG-INFO
+doctestpdbhacks.egg-info/SOURCES.txt
+doctestpdbhacks.egg-info/dependency_links.txt
+doctestpdbhacks.egg-info/entry_points.txt
+doctestpdbhacks.egg-info/not-zip-safe
+doctestpdbhacks.egg-info/top_level.txt
